@@ -7,7 +7,7 @@
 
 # Research
 
-Quantitative analysis of the structure and dynamics of networks formed by language in and citations between scientific and intellectual property documents.
+Quantitative analysis of the structure and dynamics of networks formed by the language in and the citations between scientific and intellectual property documents.
 
 # Contact
 

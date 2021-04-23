@@ -12,3 +12,5 @@ Quantitative analysis of the structure and dynamics of networks formed by the la
 # Contact
 
 Twitter: @NeotenicPrimate
+
+$$EOQ = \sqrt{\frac{2DCo}{Ch}}$$

@@ -13,4 +13,3 @@ Quantitative analysis of the structure and dynamics of networks formed by the la
 
 Twitter: @NeotenicPrimate
 
-$$EOQ = \sqrt{\frac{2DCo}{Ch}}$$

@@ -1,8 +1,25 @@
-## Languages
+<h3 align="center">
+Vladimir
+<h3>
 
-- Python 🐍
-- Rust 🦀
+---
+  
+<h4>Research</h4>
+  
+---
+  
+I model the structure of research & intellectual property document citation networks.
 
-## Research
+- Social network analysis
+- 🗣️ NLP
+  
+<h4>Languages</h4>
+  
+---
 
-Quantitative analysis of the structure and dynamics of networks formed by the language in and the citations between scientific and intellectual property documents.
+- 🐍 Python
+- 🦀 Rust
+- 🇺🇸 English
+- 🇫🇷 French
+
+
